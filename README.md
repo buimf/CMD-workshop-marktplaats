@@ -12,4 +12,4 @@ Bij het opstellen van de workshops worden wij als docenten voor een kip-ei probl
 2. kijk (of zoek) in de [bestaande vragen](https://github.com/buimf/CMD-workshop-marktplaats/issues)
 3. verfijn je eigen vraag [met je team]
 4. [stel een vraag](https://github.com/buimf/CMD-workshop-marktplaats/issues/new)
-5. abonneer je op de vraag, zodat je weet wanneer er een antwoord op komt. 
+5. je bent automatisch per mail geabonneerd je op de vraag, zodat je weet wanneer er nieuws is. 

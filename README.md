@@ -1,5 +1,5 @@
 # CMD-workshop-marktplaats
-vraag &amp; aanbod voor workshops
+vraag &amp; aanbod voor workshops jaar 1
 
 # Wat is dit?
 Dit is de plek waar [vraag](https://github.com/buimf/CMD-workshop-marktplaats/issues) en [aanbod](https://github.com/buimf/CMD-workshop-marktplaats/wiki) bij elkaar komen, als het gaat over inhoudelijke workshops bij CMD. [Hier](https://github.com/buimf/CMD-workshop-marktplaats/issues) kun je je vragen stellen, zodat wij kunnen ontdekken waar behoefte aan is. Hier kun je het aanbod vinden, zodat je kunt vinden... [wat we aanbieden](https://github.com/buimf/CMD-workshop-marktplaats/wiki).
